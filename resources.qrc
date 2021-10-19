@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/play.png</file>
+        <file>images/play2.png</file>
+        <file>images/icons8-pause-button-64.png</file>
+        <file>images/icons8-circled-play-64.png</file>
+        <file>images/icons8-color-96_play.png</file>
+        <file>images/icons8-color-96_pause.png</file>
+        <file>images/tugboat1.png</file>
+        <file>images/tug-ship-icon-by-Vexels.png</file>
+        <file>images/fishing-trawler-ship-icon-by-Vexels.png</file>
+        <file>images/fishing-boat-line-by-Vexels.png</file>
+        <file>images/icons8-services-100.png</file>
+        <file>images/icons8-services-50.png</file>
+        <file>images/settings.png</file>
+        <file>images/help16.png</file>
+        <file>images/info.png</file>
+        <file>images/question.png</file>
+        <file>images/icons8-info-96.png</file>
+        <file>images/add2.png</file>
+        <file>images/add1.png</file>
+        <file>images/delete2.png</file>
+        <file>images/delete1.png</file>
+        <file>images/settings2.png</file>
+        <file>images/oscillo.png</file>
+        <file>images/bars.png</file>
+        <file>images/spectrum.png</file>
+        <file>images/ethernet_card.png</file>
+        <file>images/ethernet.png</file>
+        <file>images/gear2.png</file>
+        <file>images/Stop_48x48.png</file>
+        <file>images/Play_48x48.png</file>
+        <file>images/Help_48x48.png</file>
+        <file>images/Information_48x48.png</file>
+        <file>images/Settings_48x48.png</file>
+        <file>images/Yellow Ball.png</file>
+        <file>images/Red Ball.png</file>
+        <file>images/Green Ball.png</file>
+        <file>images/Zoom Out_48x48.png</file>
+        <file>images/Zoom In_48x48.png</file>
+        <file>images/icon3.png</file>
+    </qresource>
+</RCC>
